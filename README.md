@@ -1,6 +1,6 @@
 # Sonho dos Pestinhas Father's Day Project
 
-Welcome to the repository for my daughter's kindergarten Father's Day project, Sonho dos Pestinhas! This project features a stunning mosaic made up of 130 images, created using the Andrea Mosaic application version 3.52.0.
+Welcome to the repository for my daughter's kindergarten Father's Day project! This project features a stunning mosaic made up of 130 images, created using the Andrea Mosaic application version 3.52.0.
 
 The mosaic was generated using the AndreaMosaic application. To learn more about AndreaMosaic, visit their [website](https://www.andreaplanet.com/andreamosaic/).
 
